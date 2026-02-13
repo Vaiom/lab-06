@@ -7,9 +7,10 @@
 
 ## References and Resources
 
-- N/A
+- https://www.infoworld.com/article/2256967/comparing-java-objects-with-equals-and-hashcode.html
+- https://stackoverflow.com/questions/156503/how-do-you-assert-that-a-certain-exception-is-thrown-in-junit-tests/2935935#2935935
+- https://www.baeldung.com/junit-assert-exception
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
+- N/A
